@@ -32,13 +32,23 @@ html{
 	position: fixed;
 	left: 0;
 	top: 0;
-	width: 300px;
-	z-index: 9;
-	height: 100%;
-	background-color: #DDD;
-	padding-top: 50px;
-	overflow-y: scroll;
+	right: 0;
+	bottom: 0;
+	z-index: 4;
+	background-color: rgba(0,0,0,.5);
 	display: none;
+}
+.mobile-menu-content{
+	padding-top: 50px;
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 300px;
+	height: 100%;
+	background-color: #FFF;
+	min-height: 100%;
+	z-index: 10;
+	overflow-y: scroll;
 }
 .menu-item{
 	display: block;

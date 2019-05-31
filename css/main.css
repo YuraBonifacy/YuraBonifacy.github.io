@@ -697,6 +697,7 @@ h3 {
     width: 80%;
     height: 100%;
     overflow-y: scroll;
+	-webkit-overflow-scrolling:touch;
     box-shadow: 3px 0 8px rgba(0, 0, 0, 0.2);
     transform: translateZ(0);
 }

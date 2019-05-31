@@ -38,6 +38,7 @@ html{
 	background-color: #DDD;
 	padding-top: 50px;
 	overflow-y: scroll;
+	display: none;
 }
 .menu-item{
 	display: block;

@@ -1,0 +1,2 @@
+# bonifacy.github.io
+DebugHosting
